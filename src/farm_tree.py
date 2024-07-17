@@ -10,6 +10,7 @@ def farm_tree():
     if can_harvest():
         harvest()
     plant(Entities.Tree)
+    fertilize()
     water()
 while True:
 

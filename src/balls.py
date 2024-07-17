@@ -1,2 +1,1 @@
-plant(Entities.Sunflower)
-print(measure())
+go_origin()
