@@ -1,3 +1,4 @@
+clear() # just incase we harvest a sunflower, which will clear the map and break till_map
 till_map()
 goto_origin()
 print("STARTING FARM")
